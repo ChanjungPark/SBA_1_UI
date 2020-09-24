@@ -10,7 +10,7 @@ yarn --version
 npm i -g create-react-app
 (yarn add global create-react-app)
 
-cd ChanjungPark\SBAProject
+cd C:\ChanjungPark\SBAProject
 dir
 cd ../
 create-react-app sbauiproject
