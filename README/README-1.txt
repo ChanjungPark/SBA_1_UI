@@ -60,3 +60,10 @@ ebook은 1 page입니다
 
 js, jsx
 xls , xlsx (extends)
+================================================================
+클릭 -> event
+
+{} Javascript Object Notation 자바스크립트 객체 표기법 JSON
+[] array [{}, {}, ...]
+================================================================
+https://ko.reactjs.org/docs/hooks-state.html 참고
